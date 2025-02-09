@@ -10,12 +10,13 @@
 
 ## 🚀 About Me
 I am a dedicated and skilled Laravel developer with a passion for building scalable and user-friendly web applications. Alongside my development expertise, I have hands-on experience as an SQA Engineer Intern at Bangladesh Computer Council (BCC), where I conducted rigorous testing to ensure software reliability and performance. I aim to contribute my combined skills in development and quality assurance to dynamic teams and grow as a professional in the tech industry.  
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 
 
 
 ## 🗂️ Projects
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/AbdullahAlFahad9?tab=repositories)
+👨‍💻 All of my projects are available at [My Repositories](https://github.com/AbdullahAlFahad9?tab=repositories)
   
   ### [Project 1: E-commerce Web Application](https://github.com/AbdullahAlFahad9/E-commerce-Project-Laravel-)
 - Designed and developed a complete e-commerce solution using Laravel framework.
@@ -24,19 +25,18 @@ I am a dedicated and skilled Laravel developer with a passion for building scala
 - Tools & Technologies: Laravel, PHP, MySQL, Bootstrap, JavaScript, GitHub.
 
   ### [Project 2: My Portfolio ](https://abdullahalfahad9.github.io/Fahad-Portfolio/)
-- A modern and responsive personal portfolio website showcasing my skills, projects, and achievements. Built with clean design, optimized performance, and interactive UI/UX to provide an 
+  A modern and responsive personal portfolio website showcasing my skills, projects, and achievements. Built with clean design, optimized performance, and interactive UI/UX to provide an 
   engaging user experience. 🔹 Features: Responsive and mobile-friendly design 🚀 Tech Stack: HTML, CSS, JavaScript, Bootstrap Stay tuned for updates! 🎨✨
 
 
 ## 📚 Publications
-- 📝 My Research Paper [Smart Decision Maker and Monitoring System for Agriculture Based on IoT](https://ieeexplore.ieee.org/document/10499457)
-  ### International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS 2024)
-  **University of Liberal Arts Bangladesh(ULAB)** (March 8. 2024)
+📝 My Research Paper [Smart Decision Maker and Monitoring System for Agriculture Based on IoT](https://ieeexplore.ieee.org/document/10499457)
+  ### International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS 2024) **University of Liberal Arts Bangladesh(ULAB)** (March 8. 2024)
   
-- My research paper, "Smart Decision Maker and Monitoring System for Agriculture Based on IoT," was published by IEEE Xplore and approved for iCACCESS-2024. This research focuses on leveraging IoT technology to enhance smart agriculture by enabling real-time monitoring and intelligent decision-making. The proposed system aims to improve efficiency, automation, and resource optimization in modern farming practices. 
+My research paper, "Smart Decision Maker and Monitoring System for Agriculture Based on IoT," was published by IEEE Xplore and approved for iCACCESS-2024. This research focuses on leveraging IoT technology to enhance smart agriculture by enabling real-time monitoring and intelligent decision-making. The proposed system aims to improve efficiency, automation, and resource optimization in modern farming practices. 
 
 ## 🌐 Email
-- 📫 How to reach me **abdulahalfahad9@gmail.com**
+📫 How to reach me **abdulahalfahad9@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
