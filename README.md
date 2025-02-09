@@ -8,9 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahAlFahad9&label=Profile%20views&color=red&style=for-the-badge" alt="AbdullahAlFahad9" /> </p>
 
-
 ## 🚀 About Me
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 I am a dedicated and skilled Laravel developer with a passion for building scalable and user-friendly web applications. Alongside my development expertise, I have hands-on experience as an SQA Engineer Intern at Bangladesh Computer Council (BCC), where I conducted rigorous testing to ensure software reliability and performance. I aim to contribute my combined skills in development and quality assurance to dynamic teams and grow as a professional in the tech industry.  
 
 
