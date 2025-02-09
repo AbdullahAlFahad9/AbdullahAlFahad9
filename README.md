@@ -1,5 +1,5 @@
 ![MasterHead](https://camo.githubusercontent.com/ec6e701d5e31850db670217ea82f9f4757ce95be5313b17c3b6f57ea591887d5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahAlFahad9&label=Profile%20views&color=red&style=for-the-badge" alt="AbdullahAlFahad9" /> </p> <h1 align="center">Hi 👋, I'm Abdullah Al Fahad </h1>
+ <h1 align="center">Hi 👋, I'm Abdullah Al Fahad </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11DAFF&random=false&width=700&lines=Laravel+Developer+and+SQA+Engineer+and+Web+Design+%26+Development" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 
 
-## 🚀 About Me
+## 🚀 About Me <p align="right"> <img src="https://komarev.com/ghpvc/?username=AbdullahAlFahad9&label=Profile%20views&color=red&style=for-the-badge" alt="AbdullahAlFahad9" /> </p>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 I am a dedicated and skilled Laravel developer with a passion for building scalable and user-friendly web applications. Alongside my development expertise, I have hands-on experience as an SQA Engineer Intern at Bangladesh Computer Council (BCC), where I conducted rigorous testing to ensure software reliability and performance. I aim to contribute my combined skills in development and quality assurance to dynamic teams and grow as a professional in the tech industry.  
 
