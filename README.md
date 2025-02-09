@@ -18,13 +18,13 @@ I am a dedicated and skilled Laravel developer with a passion for building scala
 ## 🗂️ Projects
 👨‍💻 All of my projects are available at [My Repositories](https://github.com/AbdullahAlFahad9?tab=repositories)
   
-  ### [Project 1: E-commerce Web Application](https://github.com/AbdullahAlFahad9/E-commerce-Project-Laravel-)
+### [Project 1: E-commerce Web Application](https://github.com/AbdullahAlFahad9/E-commerce-Project-Laravel-)
 - Designed and developed a complete e-commerce solution using Laravel framework.
 - Integrated features such as user authentication, product management, shopping cart, and Product Category.
 - Utilized MySQL for database management and implemented advanced query optimization for faster data retrieval.
 - Tools & Technologies: Laravel, PHP, MySQL, Bootstrap, JavaScript, GitHub.
 
-  ### [Project 2: My Portfolio ](https://abdullahalfahad9.github.io/Fahad-Portfolio/)
+### [Project 2: My Portfolio ](https://abdullahalfahad9.github.io/Fahad-Portfolio/)
   A modern and responsive personal portfolio website showcasing my skills, projects, and achievements. Built with clean design, optimized performance, and interactive UI/UX to provide an 
   engaging user experience. 🔹 Features: Responsive and mobile-friendly design 🚀 Tech Stack: HTML, CSS, JavaScript, Bootstrap Stay tuned for updates! 🎨✨
 
