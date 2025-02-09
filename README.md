@@ -9,6 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahAlFahad9&label=Profile%20views&color=red&style=for-the-badge" alt="AbdullahAlFahad9" /> </p>
 
 ## 🚀 About Me
+
 I am a dedicated and skilled Laravel developer with a passion for building scalable and user-friendly web applications. Alongside my development expertise, I have hands-on experience as an SQA Engineer Intern at Bangladesh Computer Council (BCC), where I conducted rigorous testing to ensure software reliability and performance. I aim to contribute my combined skills in development and quality assurance to dynamic teams and grow as a professional in the tech industry.  
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
@@ -31,7 +32,8 @@ I am a dedicated and skilled Laravel developer with a passion for building scala
 
 ## 📚 Publications
 📝 My Research Paper [Smart Decision Maker and Monitoring System for Agriculture Based on IoT](https://ieeexplore.ieee.org/document/10499457)
-  ### International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS 2024) **University of Liberal Arts Bangladesh(ULAB)** (March 8. 2024)
+  ### International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS 2024) 
+  **University of Liberal Arts Bangladesh(ULAB)** (March 8. 2024)
   
 My research paper, "Smart Decision Maker and Monitoring System for Agriculture Based on IoT," was published by IEEE Xplore and approved for iCACCESS-2024. This research focuses on leveraging IoT technology to enhance smart agriculture by enabling real-time monitoring and intelligent decision-making. The proposed system aims to improve efficiency, automation, and resource optimization in modern farming practices. 
 
