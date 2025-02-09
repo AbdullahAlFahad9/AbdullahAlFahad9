@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdullahAlFahad9&label=Profile%20views&color=red&style=for-the-badge" alt="AbdullahAlFahad9" /> </p>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif">
 
 ## 🚀 About Me
 
